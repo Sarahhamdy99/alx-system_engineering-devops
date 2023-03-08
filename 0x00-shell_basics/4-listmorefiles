@@ -1,2 +1,2 @@
-#!/bin/bashl
+#!/bin/bash
 ls -a
